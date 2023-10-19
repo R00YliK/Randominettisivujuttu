@@ -1,7 +1,7 @@
 # Randominettisivujuttu
 #### This is a quite crude web page that uses the basics of html/css/javascript.
 
-
+This page has been made using following criteria: https://jukkapne.github.io/WebOhjelmoinninPerusteet/  
 
 ##### Html:
 1/5  
