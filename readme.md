@@ -21,9 +21,7 @@ Different colors and fonts are defined in css file
 2/5  
 there is various classes and specific elements defined in css file  
 3/5  
-The following code makes the website responsive  
-
-<img src="https://github.com/R00YliK/Randominettisivujuttu/assets/127958381/8d220b90-0eb6-40eb-bb07-c5e406a82bed" width="400" height="600" alt="code1">  
+The website has been made responsive using css.   
 also the images in gallery changes to different grid when the aspect ratio changes.  
 4/5  
 In gallery-page images are set on grid and is also switches to different grid when aspect ratio changes.  
@@ -43,8 +41,6 @@ Eventlisteners are used 5 times:
 
 3/5  
 Functions are used in eventlisteners and object is used in function fetchCountryData()  
-<img src="https://github.com/R00YliK/Randominettisivujuttu/assets/127958381/6ede4714-46eb-4c1a-98c2-b4ce17d4f45a" width="400" height="600" alt="code2">  
-
 4/5  
 not used  
 5/5  
@@ -58,9 +54,10 @@ function fetchCountryData() uses REST Countries API to print basic information o
 3/5  
 data from fetchCountryData() is printed in Countries-page.  
 4/5  
-Error handling is implemented:  
-<img src="https://github.com/R00YliK/Randominettisivujuttu/assets/127958381/28eafa9b-3a73-4cd2-8f79-ca06565ad8e8" width="400" height="100" alt="code3">  
-
+Error handling is implemented with following code:  
+ .catch(error => {  
+            console.error('There has been a problem with your fetch operation:', error);  
+        });  
 5/5 
 Not used.  
 
