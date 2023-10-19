@@ -2,9 +2,9 @@
 #### This is a quite crude web page that uses the basics of html/css/javascript.
 
 Link to webpages:  
- [Survey-page](./survey.html)  
- [Gallery](./index.html)  
- [Countries](./countries.html)  
+ [Survey-page](html/survey.html)  
+ [Gallery](html/index.html)  
+ [Countries](html/countries.html)  
 
 
 ##### Html:

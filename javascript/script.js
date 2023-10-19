@@ -120,7 +120,7 @@ function fetchCountryData() {
                                   </div>`;
             });
 
-            // Insert the HTML content into the countryInfoContainer
+            
             countryInfoContainer.innerHTML = countriesHTML;
         })
         .catch(error => {
